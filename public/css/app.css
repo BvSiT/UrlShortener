@@ -1,0 +1,28 @@
+		<style>
+			.err-msg {
+				color: yellow;
+				font-style: italic;
+			}
+
+			body {
+				background: #777;
+				color: #fff;
+			}
+			.wrapper {
+				width: 680px;
+				margin: 0 auto;
+				padding-top: 8em;
+				text-align: center;
+			}
+			input[type="text"]{
+				width: 100%;
+				padding: 1em 0.5px;
+				border: none;
+				border-radius: 3px;
+			}
+			a {
+				color: #ccc;
+			}
+
+
+		</style>
